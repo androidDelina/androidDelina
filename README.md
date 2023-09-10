@@ -19,6 +19,29 @@
 # 🛠️ LeetCode:
 [![Leetcode Status](https://leetcard.jacoblin.cool/delina95?theme=dark&font=ABeeZee)](https://leetcode.com/delina95)
 
+# 💻 My pinned projects:
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>👾 Projects</b></td>
+      <td><b>🛠️ Stack</b></td>
+    </tr>
+  </thead>
+  <tbody>
+	  <tr>
+      <td><a href="https://github.com/androidDelina/Messenger"><b>Messenger</b></a></td>
+      <td><img alt="Firebase" src="https://img.shields.io/badge/Firebase-1c0f91?style=for-the-badge&logo=Firebase&logoColor=#FFCA28"/> <img alt="Java" src="https://img.shields.io/badge/java-5a0d78.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="XML" src="https://img.shields.io/badge/XML-1c0f91?style=for-the-badge&logoColor=FABD14"/> <img alt="LiveData" src="https://img.shields.io/badge/LiveData-%2320232a?style=for-the-badge"/> <img alt="MVVM" src="https://img.shields.io/badge/MVVM-1c0f91?style=for-the-badge"/> </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/androidDelina/TaskList"><b>Task List</b></a></td>
+      <td><img alt="Java" src="https://img.shields.io/badge/java-5a0d78.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="RxJava" src="https://img.shields.io/badge/RxJava-21232a?style=for-the-badge"/> <img alt="Room" src="https://img.shields.io/badge/Room-1c0f91?style=for-the-badge"/> <img alt="LiveData" src="https://img.shields.io/badge/LiveData-%2320232a?style=for-the-badge"/> <img alt="MVVM" src="https://img.shields.io/badge/Glide-5a0d78?style=for-the-badge"/> </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/androidDelina/MoviesKinopoisk"><b>Movies Kinopoisk</b></a></td>
+      <td><img alt="RxJava" src="https://img.shields.io/badge/RxJava-21232a?style=for-the-badge"/>  <img alt="Java" src="https://img.shields.io/badge/java-5a0d78.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="LiveData" src="https://img.shields.io/badge/LiveData-%2320232a?style=for-the-badge"/>  <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-5a0d78?style=for-the-badge"/> <img alt="MVVM" src="https://img.shields.io/badge/MVVM-1c0f91?style=for-the-badge"/> <img alt="Glide" src="https://img.shields.io/badge/Glide-5a0d78?style=for-the-badge"/> </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=androidDelina&icon=0&color=0)](https://visitcount.itsvg.in)
